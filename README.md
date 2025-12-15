@@ -112,5 +112,5 @@ Enable "Install from unknown sources" on Android before installing.
   * Auth (Email based)
   * Postgres Database
   * Storage (Image)
-##Author
+### Author
 ~ Shri Ganeshan K
