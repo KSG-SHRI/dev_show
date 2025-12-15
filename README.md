@@ -1,5 +1,12 @@
-![Flutter](https://img.shields.io/badge/platform-Android-green)
-![Superbase](https://img.shields.io/badge/language-Kotlin-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/STACK-_-555?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Supabase-FF9800?style=flat-square"/>
+</p>
+
 # DevShowcase (DevShow)
 
 A modern developer showcase platform where builders **submit projects**, **explore feeds**, and **ship faster** with a clean mobile-first experience.
