@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/STACK-_-555?style=flat-square"/>
-</p>
+  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Flutter-009688?style=flat-square"/> <br>
   <img src="https://img.shields.io/badge/Supabase-FF9800?style=flat-square"/>
 </p>
 
