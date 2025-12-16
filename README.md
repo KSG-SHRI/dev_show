@@ -54,9 +54,15 @@ Enable "Install from unknown sources" on Android before installing.
 * **Submit Projects**
 
   * Add project title, description, links
-  * Upload screenshots
+  * Upload screenshots(project banner)
   * Instant publishing
+    
+* **Comment & Follow ppl & Search ppl**
 
+  * Able to comment devs & reply to them
+  * Easy follow & unfollow devs
+  * Easy search people using the seacrh ppl widget
+    
 *  **State Management**
 
   * Predictable & scalable state using Riverpod 
@@ -93,6 +99,8 @@ Enable "Install from unknown sources" on Android before installing.
    * Feed updates without refresh
 5. **Engagements**
    * Voting
+   * Comments
+   * Follows
    * Able to Save Projects
    * Repo & Product links
 ---
